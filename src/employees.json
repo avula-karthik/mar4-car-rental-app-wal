@@ -1,0 +1,22 @@
+[
+    {
+        "name" : "Karthik",
+        "loc" : "Bangalore"
+    },
+    {
+        "name" : "Mithun",
+        "loc":"Hyderabad"
+    },
+    {
+        "name" : "Mulaz",
+        "loc" : "Bombay"
+    }, 
+    {
+        "name" : "Purusotham",
+        "loc" :"Ongole"
+    },
+    {
+        "name" : "Keerthan",
+        "loc" : "Dharmavaram"
+    }
+]

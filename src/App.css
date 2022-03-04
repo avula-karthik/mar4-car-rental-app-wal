@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  font-family: 'Syne Mono', monospace;
 }
 
 .App-logo {
@@ -35,4 +36,38 @@
   to {
     transform: rotate(360deg);
   }
+}
+.aboutDiv{
+  text-align: center;
+}
+.mapBox{
+  height: 67vh;
+  width: 90%;
+  margin: auto;
+  margin-top: 4%;
+  margin-bottom: 4%;
+}
+table {
+  border-collapse: collapse;
+  width: 90%;
+  margin: auto;
+  font-weight: bold;
+}
+table td, table th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+table tr:nth-child(even){background-color: whitesmoke;}
+table tr:nth-child(odd){background-color: white;} 
+table tr:hover {background-color: gray}
+table th {
+  padding-top: 12px;
+  text-align: center;
+  padding-bottom: 12px;
+  background-color: #c9553e;
+  color: white;
+}
+.btn{
+  border-radius: 1px;
+  font-size: 20px;
 }
